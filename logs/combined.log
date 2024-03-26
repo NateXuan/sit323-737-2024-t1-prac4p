@@ -1,0 +1,5 @@
+{"level":"info","message":"Operation performed: New add with numbers 10 and 5","service":"calculator-microservice"}
+{"level":"info","message":"Operation performed: New subtract with numbers 10 and 5","service":"calculator-microservice"}
+{"level":"info","message":"Operation performed: New multiply with numbers 10 and 5","service":"calculator-microservice"}
+{"level":"error","message":"Error performing multiply: Invalid input numbers","service":"calculator-microservice"}
+{"level":"info","message":"Operation performed: New multiply with numbers 10 and 5","service":"calculator-microservice"}
